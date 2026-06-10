@@ -1,0 +1,89 @@
+body{
+    background-color: rgb(221, 200, 141);
+}
+
+.navbar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+}
+
+.nav_kanan{
+    text-align: right;
+}
+
+.profil{
+    text-align: center;
+    color: #734128;
+}
+
+.foto{
+    border: 3px solid #734128;
+    margin-bottom: 20px;
+    margin-top: 50px;
+}
+
+.about_me{
+    color: #facdb7;
+    background-color: #734128;
+    padding-bottom: 50px;
+}
+
+.project{
+    color: #734128;
+    background-color: #e49d7a;
+}
+
+.project_card{
+    background-color: #facdb7;
+    border: 2px solid #734128;
+    border-radius: 10px;
+    gap: 50px;
+}
+
+.foto1{
+    border-radius: 10px;
+    border: 2px solid #287328;
+}
+
+.contact{
+    border-radius: 10px;
+    padding: 19px;
+    color: #000000;
+    margin-bottom: 50px;
+}
+
+.judul{
+    color: #734128;
+    text-align: center;
+}
+
+.text_2{
+    color: #000000;
+    text-align: left;
+}
+
+.btn_contact{
+    margin: 0 auto;
+    display: block;
+    padding: 10px 50px;
+    border: 2px solid #736228;
+    border-radius: 10px;
+}
+
+.btn_contact:hover{
+    background-color: #736228;
+    color: #ffffff;
+    border: 2px solid #736228;
+}
+
+.foot{
+    background-color: #734128;
+    text-align: center;
+    padding: 40px;
+}
+
+.text_foot{
+    color: #ffffff;
+}
